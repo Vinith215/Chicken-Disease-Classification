@@ -25,6 +25,7 @@ list_of_files = [
     "tests/__init__.py",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
+    "templates/index.html"
     
 ]
 
